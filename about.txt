@@ -1,0 +1,5 @@
+Given CFG:  S→aS |bB|cC 
+            B→bB | aC |λ
+            C→aS |λ
+
+A program to determine whether an input string is accepted or rejected by the grammar.           
